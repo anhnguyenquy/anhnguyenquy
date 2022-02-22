@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [New Project](https://newproject.com)
 
-- 🤝 I’m looking for help with **OpenAI,Kali Linux and OSCP preparation**
+- 🤝 I’m looking for help with **OpenAI, Kali Linux and OSCP preparation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anhnguyenquy](https://github.com/anhnguyenquy)
 
