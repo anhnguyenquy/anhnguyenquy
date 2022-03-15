@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👯 I’m looking to collaborate on [New Project](https://newproject.com)
+- 👯 I’m looking to collaborate on [Proletariatus](https://github.com/anhnguyenquy/proletariatus)
 
 - 🤝 I’m looking for help with **OpenAI, Kali Linux and OSCP preparation**
 
